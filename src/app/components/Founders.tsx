@@ -1,6 +1,6 @@
 import { motion } from 'motion/react';
 import { useInView } from './hooks/useInView';
-import foundersImage from '../../assets/55e42891c8331ba53990faeafbbd282aa4494977.png';
+import foundersImage from '@/assets/55e42891c8331ba53990faeafbbd282aa4494977.png';
 
 const founders = [
   {

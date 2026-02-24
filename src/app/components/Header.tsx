@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { motion } from 'motion/react';
 import { Menu, X } from 'lucide-react';
-import logo from '../../assets/ac70afa67a34ec2966bbafaddb464bfc40e531bb.png';
+import logo from '@/assets/ac70afa67a34ec2966bbafaddb464bfc40e531bb.png';
 
 export function Header() {
   const [scrolled, setScrolled] = useState(false);
