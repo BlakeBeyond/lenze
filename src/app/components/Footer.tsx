@@ -1,5 +1,5 @@
 import { motion } from 'motion/react';
-import logo from '@/assets/ac70afa67a34ec2966bbafaddb464bfc40e531bb.png';
+import logo from '@/assets/ac70afa67a34ec2966bbafaddb464bfc40e531bb.jpeg';
 
 export function Footer() {
   const scrollToSection = (href: string) => {
